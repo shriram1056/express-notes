@@ -85,6 +85,8 @@ also, the frontend should make request with `credentials: "include"` which inclu
 
 [CSRF](https://www.youtube.com/watch?v=KaEj_qZgiKY&list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP&index=5)
 
+[credentials from client perspective](https://stackoverflow.com/questions/27406994/http-requests-withcredentials-what-is-this-and-why-using-it)
+
 The `same-origin` policy is a critical security mechanism that restricts how a document or script loaded by one origin can interact with a resource from another origin.
 
 Cross-origin writes are typically allowed. Examples are links, redirects, and form submissions. Some HTTP requests require preflight.
