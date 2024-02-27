@@ -430,8 +430,8 @@ Search `IAM` to create a new user, give them `AmazonS3FullAccess` and after crea
 put the command below in console and run the app
 
 ```
-export AWS_ACCESS_KEY_ID=AKIATIGGTFVKBPARWAZA
-export AWS_SECRET_ACCESS_KEY=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
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
 ```
 
 <br />
